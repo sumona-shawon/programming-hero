@@ -1,0 +1,13 @@
+- adding css, css syntax, css selectors, comment
+- color, background color
+- font family, font size, font weight, text align, text decoration, list-style
+- css measuring units → px, %, rem, vw, vh
+- height, width, border, margin, padding, box model
+- max width, margin: auto
+- border color, border style, border radius, box shadow
+- display → inline, block, inline-block, none
+- display: flex, justify-content, align-items, gap
+- background, background image: url(), background size, background repeat, background position, background blend mode
+- pseudo class → hover, focus, visited
+- pseudo element → first-child, last-child, nth-child(n), before, after
+- position → relative, absolute, sticky, fixed + (top, bottom, left, right, z-index)
