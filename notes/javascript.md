@@ -1,0 +1,12 @@
+### Run JavaScript in VS Code
+- type in cmd to check if Node JS is installed perfectly
+    - node --version
+- vs code
+    - create .js file
+    - shows output: console.log()
+    - terminal: Ctrl + J 
+        - node file-name.js
+- things to know
+    - javascript, scripting language, high level language, history
+- where to run javascript
+    - browser, 
